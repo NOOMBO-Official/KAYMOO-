@@ -1,0 +1,5 @@
+{
+  "name": "Aesthetic AI Inspo Board",
+  "description": "A minimalistic aesthetic inspiration board using Unsplash and Pinterest APIs, powered by Gemini AI for mood extraction and color palettes.",
+  "requestFramePermissions": []
+}
